@@ -4,4 +4,4 @@ Este foi o meu trabalho de conclusão apresentado ao Instituto de Física da Uni
 
 Neste trabalho, apresentamos um estudo sobre os modos de oscilação de estrelas Newtonianas (ou não-relativísticas), estrelas relativísticas, com ênfase em estrelas de nêutrons, e também de buracos negros, causando pequenas perturbações no sistema em equilíbrio.
 
-Aqui, você encontrará o pdf da monografia e o programa desenvolvido para obter os resultados presentes no trabalho.
+Aqui, você encontrará o pdf da monografia e o programa desenvolvido para obter os resultados sobre os modos de oscilação de estrelas de nêutrons.
